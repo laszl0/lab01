@@ -1,0 +1,22 @@
+{
+  "name": "lab01",
+  "version": "1.0.0",
+  "description": "lab01-is about npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "lab01"
+  },
+  "keywords": [
+    "nothing",
+    "special"
+  ],
+  "author": "laszl0",
+  "license": "NODEV",
+  "dependencies": {
+    "once": "^1.3.0"
+  }
+}
